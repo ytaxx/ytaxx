@@ -73,12 +73,8 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ytaxx&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF006E&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" width="40%" />
 
 </div>
 
@@ -99,7 +95,7 @@
 <!-- Activity Graph -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ytaxx&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF006E&point=FFFFFF" width="95%" />
 
 </div>
 
