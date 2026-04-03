@@ -65,10 +65,12 @@
 ### Creative & Animation
 <div align="left">
 
-![Blender](https://img.shields.io/badge/Blender-3D%20%26%20Animation-F5792A?style=flat-square&logo=blender&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Scripting%20%26%20Tools-3776AB?style=flat-square&logo=python&logoColor=white)
-![Animation](https://img.shields.io/badge/Animation-Rigging%20%26%20Motion-EA4C89?style=flat-square)
-![Substance](https://img.shields.io/badge/Substance-Materials%20%26%20Textures-FF6B00?style=flat-square&logo=adobe&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-3D%20%26%20Animation-F5792A?style=flat-square&logo=blender&logoColor=white )
+![Maya](https://img.shields.io/badge/Maya-Rigging%20%26%20Retopology-06A9F4?style=flat-square&logo=autodesk&logoColor=white )
+![Substance Painter](https://img.shields.io/badge/Substance%20Painter-Texturing-FF6B00?style=flat-square&logo=adobe&logoColor=white )
+![Python](https://img.shields.io/badge/Python-Scripting%20%26%20Tools-3776AB?style=flat-square&logo=python&logoColor=white )
+![Animation](https://img.shields.io/badge/Animation-Rigging%20%26%20Motion-EA4C89?style=flat-square )
+![Substance](https://img.shields.io/badge/Substance-Materials%20%26%20Textures-FF6B00?style=flat-square&logo=adobe&logoColor=white )
 
 </div>
 
